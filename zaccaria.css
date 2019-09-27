@@ -1,0 +1,15 @@
+table {border-collapse:collapse;
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+    width:0%;
+    }
+ td { 
+    border-width:5px;
+    border-style:solid; 
+    border-color:black;
+    width:50%;
+    }
+
+th{border:10px solid black;
+padding:10px}
